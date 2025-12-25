@@ -19,7 +19,6 @@ The proposed method integrates physical model unfolding with shared reflectance 
 
 ### 📦 Dependencies
 
-
 The implementation is based on **PyTorch**. The main dependencies include:
 
 * Python 3.8.20
@@ -30,12 +29,12 @@ A complete `requirements.txt` file will be provided upon code release.
 
 ### 🏃 Getting Started (After Release)
 
-Once the paper is accepted and the code is public, you will be able to:
+Once the paper is accepted and the code is made public, you will be able to:
 
 1. Clone the repository
 2. Install dependencies
 3. Download pre-trained models (or train your own)
-4. Run test and evaluate
+4. Run testing and evaluation
 
 ### 🤝 Acknowledgements
 
