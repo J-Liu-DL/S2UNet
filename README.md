@@ -26,7 +26,7 @@ The implementation is based on **PyTorch**. The main dependencies include:
 * Pytorch 2.4.1
 * Other common libraries (NumPy, OpenCV, etc.)
 
-A complete `requirements.txt` file and environment configuration will be provided upon code release.
+A complete `requirements.txt` file will be provided upon code release.
 
 ### 🏃 Getting Started (After Release)
 
