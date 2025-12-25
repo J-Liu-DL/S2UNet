@@ -34,7 +34,7 @@ Once the paper is accepted and the code is public, you will be able to:
 
 1. Clone the repository
 2. Install dependencies
-3. Download pre-trained models
+3. Download pre-trained models (or train your own)
 4. Run test and evaluate
 
 ### 🤝 Acknowledgements
