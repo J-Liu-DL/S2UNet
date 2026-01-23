@@ -1,6 +1,8 @@
-## Getting Started
+## [S2UNet] - Low-Light Image Enhancement
 
-### Dependencies and Installation
+## 🏃 Getting Started
+
+### 📦 Dependencies and Installation
 
 * Python 3.8.20
 * Pytorch 2.4.1
@@ -65,4 +67,9 @@ python eval_loe.py \
 # test_original_dir: Path to the folder containing low-light images.
 # test_processed_dir: Path to the folder containing enhanced images.
 ```
+
+### 🤝 Acknowledgements
+
+We sincerely thank the authors of related open-source projects and the providers of the public datasets used in this work.
+
 
