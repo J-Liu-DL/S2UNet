@@ -68,8 +68,9 @@ python eval_loe.py \
 # test_processed_dir: Path to the folder containing enhanced images.
 ```
 
-### 🤝 Acknowledgements
+## 🤝 Acknowledgements
 
 We sincerely thank the authors of related open-source projects and the providers of the public datasets used in this work.
+
 
 
